@@ -1,0 +1,10 @@
+.navbar{
+    width: 1280px;
+    height: 35px;
+    border-bottom: black;
+    border-bottom-style: solid;
+}
+
+.nav-list{
+    margin-left: 46vh;
+}
